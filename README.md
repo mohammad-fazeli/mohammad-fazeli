@@ -4,17 +4,17 @@ This README appears on your GitHub profile.
 -->
 
 <h1 align="center">Hi, I'm Mohammad Fazeli 👋</h1>
-<h3 align="center">Full-Stack Developer | JavaScript / TypeScript Enthusiast</h3>
+<h3 align="center">web Developer | JavaScript / TypeScript Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+NestJS;Clean+Code+%26+Good+Architecture;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Web+Developer;React+%7C+Next.js+%7C+NestJS;Clean+Code+%26+Good+Architecture;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 💻 I’m a **Full Stack Developer** passionate about building modern web applications
+- 💻 I’m a **Web Developer** passionate about building modern web applications
 - ⚙️ I work mainly with **React**, **Next.js**, **NestJS**, **Express**, **SQL**, and **MongoDB**
 - 🌱 Currently exploring **software architecture** and **scalable systems design**
 - 🚀 Always open to new challenges and collaborations
